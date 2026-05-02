@@ -18,4 +18,4 @@ Managing data type consistency (e.g., String params vs. Number IDs).
 Structuring clean, maintainable backend logic using REST principles.
 
 #Demo:
-![App Demo](assets/demo.gif)
+![App Demo](demo.gif)
